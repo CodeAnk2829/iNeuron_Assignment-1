@@ -4,4 +4,4 @@ int main(){
     printf("%d",x);
     return 0;
 }
-//output : 7 
+//output : iNeuron7
