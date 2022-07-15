@@ -4,5 +4,4 @@ int main(){
     printf("%d",x);
     return 0;
 }
-//output : first iNeuron is printed by the first printf and then garbage value will be printed due to second printf
-// iNeuron8
+//output : 7 
